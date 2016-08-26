@@ -1,0 +1,19 @@
+<spam>
+<victims>
+  <victim>
+    <name>The Pope</name>
+    <email>pope@vatican.gob.va</email>
+    <is_satan>0</is_satan>
+  </victim>
+  <victim>
+    <name>George Bush</name>
+    <email>father@nwo.com</email>
+    <is_satan>1</is_satan>
+  </victim>
+  <victim>
+    <name>George Bush Jr</name>
+    <email>son@nwo.com</email>
+    <is_satan>0</is_satan>
+  </victim>
+</victims>
+</spam>

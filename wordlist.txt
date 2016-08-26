@@ -244,3 +244,56 @@ EB1911 - Volume   This entry lacks etymological information. If you are
      adessive   valvomalla    —            ^2) Used only with a possessive
     instructive valvoman      valvottaman  ^3) Does not exist in the case of
      5th^2      valvomaisillaan
+==>ruska
+ 1. The process of leaves turning various shades of red, yellow, purple, and
+ 2. The time when this happens.
+ 1. feminine nominative singular of ruski
+ 2. feminine vocative singular of ruski
+==>perve
+ 1. Alternative form of perv
+ 1. Alternative form of perv
+ 1. (dialectal, archaic) color, paint
+ 1. ^ Karulis, Konstantīns. 1992, 2001. Latviešu etimoloģijas vārdnīca. Rīga:
+==>pervee
+==>perv
+ 1. (slang) A pervert.
+ 1. (slang) To stare at others in a perverted manner, especially whilst
+==>biisi
+ 1. (colloquial) song
+==>asten
+==>aste
+ 1. week
+ 1. grade, step
+ 1. a step
+ 1. grade
+ 2. degree
+ 3. (everyday usage) degree, degree Celsius (short for celsiusaste)
+ 4. order
+ 1. Romanization of 𐌰𐍃𐍄𐌴
+ 1. plural of asta
+EB1911 - Volume   This entry lacks etymological information. If you are
+ 1. grade
+ 2. degree
+ 3. order
+ 1. (anatomy) (long) tail
+ 2. (of objects) tail (extended part at the end)
+ 1. ^ Karulis, Konstantīns (1992), “aste”, in Latviešu Etimoloģijas Vārdnīca
+ 1. inflection of astat:
+     1. first-person dual present indicative
+     2. third-person plural past indicative
+ 1. slow (not quick in motion)
+==>vuoro
+ 1. turn
+ 2. shift (change of workers)
+ 3. (transport) A means of transportation that runs regularly on a given route;
+==>loistaa
+ 1. (intransitive) To shine, glow, glare, sparkle (to emit light).
+ 2. (intransitive) To excel, shine (to distinguish oneself).
+  long 1st^2    loistaakseen                   past    loistanut  loistettu
+    inessive^1  loistaessa     loistettaessa  agent^   loistama
+2nd                                            1, 3
+                                             ^1) Usually with a possessive
+     adessive   loistamalla    —             ^2) Used only with a possessive
+    instructive loistaman      loistettaman  ^3) Does not exist in the case of
+     5th^2      loistamaisillaan
+==>himmelfot
