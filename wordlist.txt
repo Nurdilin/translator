@@ -55,61 +55,14 @@
 
 ==>juust
  1. cheese
-==>just
-  • 10 Swedish
- 1. Factually right, correct; factual.
- 2. Rationally right, correct
- 3. Morally right; upright, righteous, equitable; fair.
- 4. proper, adequate
- 1. Only, simply, merely.
-      □ 1913, Joseph C. Lincoln, chapter 8, in Mr. Pratt's Patients:
-      □ 2013 June 8, “The new masters and commanders”, in The Economist, volume
-      □ 2013 June 14, Sam Leith, “Where the profound meets the profane”, in The
-        Guardian Weekly, volume 189, number 1, page 37:
- 2. (sentence adverb) Used to reduce the force of an imperative; simply.
- 3. (speech act) Used to convey a less serious or formal tone
- 4. (speech act) Used to show humility.
-      □ 1913, Joseph C. Lincoln, chapter 8, in Mr. Pratt's Patients:
-      □ 1963, Margery Allingham, chapter 14, in The China Governess^[1]:
-      □ 2013 June 22, “Engineers of a different kind”, in The Economist, volume
-        407, number 8841, page 70:
- 1. A joust, tournament.
- 1. To joust, fight a tournament.
-Most common English words before 1923: found · people · still · #142: just ·
- 1. fair; just
- 2. perfectly, almost perfectly
- 1. justly
- 1. exactly, precisely
- 1. (colloquial, dialectal) just, exactly, precisely, perfectly
- 1. just, right, correct, proper
- 2. exact
- 3. adequate
- 4. apt
- 1. (elevated) just
- 1. to feel (to perceive with one's sense organs)
- 2. to sense
- 3. to palp
- 4. to have a sensation
- 1. third-person singular past historic of gesir
- 1. just, correct
- 1. just; quite recently; only moments ago
- 2. just; only, simply
- 3. exactly, precisely
-  • This page was last modified on 21 July 2016, at 22:09.
 ==>sankari
  1. hero, heroine
-  • This page was last modified on 26 April 2016, at 14:03.
 ==>kauniita
  1. Partitive plural form of kaunis.
 ==>valmiita
  1. Partitive plural form of valmis.
 ==>valmiita
  1. Partitive plural form of valmis.
-==>valmiita
- 1. Partitive plural form of valmis.
-==>sankari
- 1. hero, heroine
-==>satuma
 ==>satumaa
  1. wonderland
 ==>satu
@@ -297,3 +250,47 @@ EB1911 - Volume   This entry lacks etymological information. If you are
     instructive loistaman      loistettaman  ^3) Does not exist in the case of
      5th^2      loistamaisillaan
 ==>himmelfot
+==>nuija
+ 1. club
+ 2. mallet, maul
+ 3. gavel (wooden mallet of the chairman of the meeting)
+ 4. (colloq) fool, idiot
+==>nuija
+ 1. club
+ 2. mallet, maul
+ 3. gavel (wooden mallet of the chairman of the meeting)
+ 4. (colloq) fool, idiot
+==>salaisen
+ 1. Genitive singular form of salainen.
+==>salainen
+ 1. secret, clandestine (done or kept hidden).
+ 2. (mysterious) arcane
+==>roskaruoka
+ 1. junk food
+==>puhaeta
+==>piste
+ 1. (skiing) a downhill trail.
+ 2. (fencing) the field of play of a fencing match.
+ 3. (archaic) The track left by somebody riding a horse.
+ 1. (skiing) piste
+ 1. singular past indicative and subjunctive of pissen
+ 1. (typography) point, dot, full stop, period
+ 2. (mathematics) point (zero-dimensional object)
+ 3. point (particular location)
+ 4. point (something tiny)
+ 1. a track or trail left by an animal or person
+ 2. a lead in a police investigation
+ 3. a runway for aircraft
+ 4. a track on a recording
+ 1. first-person singular present indicative of pister
+ 2. third-person singular present indicative of pister
+ 3. first-person singular present subjunctive of pister
+ 4. first-person singular present subjunctive of pister
+ 1. plural of pista
+ 1. vocative masculine singular of pistus
+ 1. "manner of action" būdinys participle of pisti.
+ 1. plural of pisto
+ 1. simple past of pisse
+==>ntaisarit
+==>taisarit
+==>daisarit
